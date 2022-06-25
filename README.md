@@ -1,3 +1,3 @@
-# BipBillyTennis.github.io
+# BipBillyTennis
 
-Testing phase
+Testing
