@@ -1,0 +1,67 @@
+@font-face {
+    font-family: NCAA;
+    src: url(./assets/font/NCAA-Michigan-St-Spartans/NCAA\ Michigan\ St\ Spartans.otf);
+}
+
+@font-face {
+    font-family: Bebas;
+    src: url(./assets/font/bebas_neue/BebasNeue-Regular.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+i {
+    cursor: pointer;
+}
+
+.jumbotron {
+    color: white;
+    background: url(./assets/photos/hero.jpg) center 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: Bebas;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    letter-spacing: 0.1rem;
+}
+
+.alt-nav {
+    font-family: Bebas;
+}
+
+.alt-nav-link {
+    color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.card {
+    margin-top: 5%;
+    border: 0;
+    background: transparent;
+    letter-spacing: 0.2rem;
+    color: black;
+}
+
+
+
+
+
+
+
