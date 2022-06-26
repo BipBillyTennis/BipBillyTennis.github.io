@@ -11,6 +11,7 @@
 * {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 body {
@@ -50,6 +51,10 @@ i {
     background-color: goldenrod;
     opacity: 0;
     transition: opacity 300ms, transform 300ms;
+}
+
+.alt-nav {
+    font-family: Bebas;
 }
 
 /* a:hover::after,
