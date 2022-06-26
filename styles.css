@@ -65,14 +65,6 @@ a {
     font-size: 1.5rem;
 } */
 
-.alt-nav {
-    font-family: Bebas;
-}
-
-.alt-nav-link {
-    color: black;
-}
-
 .navbar-default .navbar-toggle .icon-bar {
     background-color: white;
 }
