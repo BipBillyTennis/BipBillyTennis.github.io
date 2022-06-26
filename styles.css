@@ -47,12 +47,12 @@ i {
     left: 0;
     width: 100%;
     height: 0.1em;
-    background-color: yellow;
+    background-color: goldenrod;
     opacity: 0;
     transition: opacity 300ms, transform 300ms;
 }
 
-a:hover::after,
+/* a:hover::after,
 a:focus::after {
     opacity: 1;
     transform: translate3d(0, 0.05em, 0);
@@ -63,7 +63,7 @@ a {
     position: relative;
     padding: 0.05em 0;
     font-size: 1.5rem;
-}
+} */
 
 .alt-nav {
     font-family: Bebas;
